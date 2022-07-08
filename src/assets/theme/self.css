@@ -1,0 +1,193 @@
+@import "./self-fonts/iconfont.css";
+body {
+    /* background-color: #f0f2fa; */
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.el-button .iconfont {
+    margin-right: 5px;
+}
+
+
+/**=========表格和分页组合样式start======================*/
+
+.fu-table-wrapper {
+    background-color: #ffffff;
+    overflow: auto;
+}
+
+.fu-table-wrapper .el-pagination {
+    margin: 20px 0 40px 20px;
+}
+
+
+/**=========表格和分页组合样式end======================*/
+
+
+/**=========树的样式start======================*/
+
+.fu-tree-wrapper {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.fu-tree-wrapper .el-tree {
+    background-color: #f0f2fa;
+}
+
+
+/**=========树的样式end======================*/
+
+
+/**=========toolbar的样式start==========================*/
+
+.fu-toolbar-has-form {
+    padding: 0 9px 9px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.fu-toolbar-only-form {
+    padding: 0 9px 9px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.fu-toolbar-has-form .el-form,
+.fu-toolbar-only-form .el-form {
+    display: flex;
+}
+
+.fu-toolbar-has-form .el-form .el-form-item,
+.fu-toolbar-only-form .el-form .el-form-item {
+    margin-bottom: 0;
+}
+
+
+/**=========toolbar的样式end==========================*/
+
+
+/**=========公共样式start======================*/
+
+
+/*用在表格和树内部的title样式*/
+
+.fu-inner-title {
+    margin: 16px 0 15px 20px;
+    font-size: 14px;
+    font-family: Microsoft YaHei;
+    font-weight: bold;
+    color: #666;
+}
+
+
+/*表格和树的内部标题icon样式*/
+
+.fu-inner-title .iconfont {
+    margin-right: 5px;
+    color: #666;
+}
+
+
+/*表格中图标按钮样式*/
+
+.el-table .iconfont {
+    margin-right: 10px;
+    font-size: 20px;
+    color: #409eff;
+    cursor: pointer;
+}
+
+
+/*右边报错弹窗样式*/
+
+.el-notification__content {
+    overflow-wrap: break-word;
+}
+
+.el-notification__group {
+    width: 90%;
+}
+
+
+/* 表格样式问题 */
+
+.el-table__fixed-right {
+    height: 100% !important;
+}
+
+.el-table__fixed {
+    height: 100% !important;
+}
+
+.el-pagination {
+    padding: 5px 10px;
+    display: flex;
+    justify-content: right;
+}
+
+
+/* 表格操作栏样式 */
+
+.el-table .operateBtns {
+    font-size: 14px;
+    color: #409eff;
+    display: flex;
+    white-space: nowrap;
+}
+
+.el-table .operateBtns span {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.el-table .operateBtns i,
+.el-table .operateBtns img,
+.el-table .operateBtns .iconfont {
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.el-dropdown-link {
+    cursor: pointer;
+    color: #409eff;
+}
+
+.el-icon-arrow-down {
+    font-size: 14px;
+}
+
+
+/* 文本溢出显示 */
+
+.wordEllipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+/**=========公共样式end======================*/
+
+
+/* ======================个人样式=================== */
+
+.my-el-message-box {
+    width: 700px;
+}

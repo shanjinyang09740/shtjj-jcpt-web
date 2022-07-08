@@ -1,0 +1,40 @@
+export const FormItems = {
+    labelWidth: "125px",
+    name: "baseForm",
+    data: [{
+            label: "催报规则名称",
+            prop: "ruleName",
+            type: "input",
+            disabled: false,
+            placeholder: "",
+            size: "mini",
+        },
+        {
+            label: "催报方式",
+            prop: "urgingMethod",
+            type: "select",
+            disabled: false,
+            size: "mini",
+            placeholder: "",
+            option: [],
+        },
+        {
+            label: "催报规则状态",
+            prop: "ruleState",
+            type: "select",
+            disabled: false,
+            size: "mini",
+            placeholder: "",
+            option: [{
+                    text: "停用",
+                    value: "0",
+                },
+                {
+                    text: "启用",
+                    value: "1",
+                },
+            ],
+        },
+    ],
+    rules: {},
+};

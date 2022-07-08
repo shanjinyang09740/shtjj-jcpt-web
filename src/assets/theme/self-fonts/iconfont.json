@@ -1,0 +1,261 @@
+{
+  "id": "3268276",
+  "name": "上海统计局",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "19163235",
+      "name": "表格_查看数据",
+      "font_class": "biaoge_chakanshuju",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "19187833",
+      "name": "表格_字段规则",
+      "font_class": "biaoge_ziduanguize",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "19187917",
+      "name": "表格_删除",
+      "font_class": "biaoge_shanchu",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "19189778",
+      "name": "表格_编辑",
+      "font_class": "biaoge_bianji",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "19190077",
+      "name": "表格_规则配置",
+      "font_class": "biaoge_guizepeizhi",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "19192047",
+      "name": "表格_规则导出",
+      "font_class": "biaoge_guizedaochu",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "19215752",
+      "name": "表格_运行",
+      "font_class": "biaoge_yunhang",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "19215753",
+      "name": "表格_运行历史",
+      "font_class": "biaoge_yunhanglishi",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "19216376",
+      "name": "表格_数据对照",
+      "font_class": "biaoge_shujuduizhao",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "19219608",
+      "name": "表格_规则生成",
+      "font_class": "biaoge_guizeshengcheng",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "19219766",
+      "name": "表格_血缘关系",
+      "font_class": "biaoge_xieyuanguanxi",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "19481872",
+      "name": "表格_查看字段",
+      "font_class": "biaoge_chakanziduan",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "19482211",
+      "name": "表格_流配置",
+      "font_class": "biaoge_liupeizhi",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "19537229",
+      "name": "表格_查看结构",
+      "font_class": "biaoge_chakanjiegou",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "18933643",
+      "name": "表格_查看日志",
+      "font_class": "biaoge_chakanrizhi",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "23185005",
+      "name": "表格_复制",
+      "font_class": "biaoge_fuzhi",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "30119882",
+      "name": "表格_赋码",
+      "font_class": "biaoge_fuma",
+      "unicode": "e858",
+      "unicode_decimal": 59480
+    },
+    {
+      "icon_id": "30119864",
+      "name": "表格_变更记录",
+      "font_class": "biaoge_biangengjilu",
+      "unicode": "e857",
+      "unicode_decimal": 59479
+    },
+    {
+      "icon_id": "30119840",
+      "name": "表格_发起外呼",
+      "font_class": "biaoge_faqiwaihu",
+      "unicode": "e856",
+      "unicode_decimal": 59478
+    },
+    {
+      "icon_id": "19215751",
+      "name": "表格_详情",
+      "font_class": "biaoge_xiangqing",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "23177356",
+      "name": "表格_查看详情",
+      "font_class": "biaoge_chakanxiangqing",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "2225235",
+      "name": "服务",
+      "font_class": "fuwu",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "4298034",
+      "name": "互联网on",
+      "font_class": "hulianwangon",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "6940848",
+      "name": "互联网ie",
+      "font_class": "hulianwangie",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "7291772",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "10443481",
+      "name": "环境监测管理",
+      "font_class": "huanjingjianceguanli",
+      "unicode": "e859",
+      "unicode_decimal": 59481
+    },
+    {
+      "icon_id": "11232296",
+      "name": "旅游直报管理",
+      "font_class": "lvyouzhibaoguanli",
+      "unicode": "e7fd",
+      "unicode_decimal": 59389
+    },
+    {
+      "icon_id": "12621721",
+      "name": "数据统计",
+      "font_class": "shujutongji",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "13243236",
+      "name": "审核",
+      "font_class": "shenhe",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "15383973",
+      "name": "指标",
+      "font_class": "zhibiao",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "16077884",
+      "name": "统计1",
+      "font_class": "tongji1",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "16143492",
+      "name": "生产绩效分析",
+      "font_class": "shengchanjixiaofenxi",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "19412294",
+      "name": "价格",
+      "font_class": "jiage",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "21053715",
+      "name": "互联网出口",
+      "font_class": "hulianwangchukou",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "22446779",
+      "name": "政府监管",
+      "font_class": "zhengfujianguan",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "25520797",
+      "name": "信息直报",
+      "font_class": "xinxizhibao",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    }
+  ]
+}
